@@ -1,0 +1,101 @@
+{
+  "name": "WWE World Heavyweight Champion",
+  "caption": "<b>Roman Reigns: 39.9%</b><br>Alberto Del Rio: 25.9%<br>Kevin Owens: 11.4%<br>Dolph Ziggler: 11.2%<br>Dean Ambrose: 6.0%<br>Neville: 3.1%<br>Cesaro: 1.7%<br>Kalisto: 0.9%",
+  "winners": [
+    {
+  "name": "",
+  "caption": "<b>Roman Reigns: 53.7%</b><br>Alberto Del Rio: 38.8%<br>Cesaro: 4.6%<br>Kalisto: 2.9%",
+  "winners": [
+    {
+      "name": "",
+      "winners": [
+        {
+          "name": "Roman Reigns",
+          "winners" : [
+            {"name": "Roman Reigns"},
+            {"name": "Big Show"}
+          ],
+          "caption": "<b>Roman Reigns: 100%</b>"
+        },
+        {
+          "name": "Cesaro",
+          "winners" : [
+            {"name": "Cesaro"},
+            {"name": "Sheamus"}
+            ],
+          "caption": "<b>Cesaro: 100%</b>"
+          }
+      ],
+      "caption": "<b>Roman Reigns: 83.8%</b><br>Cesaro: 16.2%"
+    },
+    {
+      "name": "",
+      "winners": [
+        {
+          "name": "Alberto Del Rio",
+          "winners" : [
+            {"name": "Alberto Del Rio"},
+            {"name": "Stardust"}
+          ],
+          "caption": "<b>Alberto Del Rio: 100%</b>"
+        },
+        {
+          "name": "Kalisto",
+          "winners" : [
+            {"name": "Kalisto"},
+            {"name": "Ryback"}
+            ],
+          "caption": "<b>Kalisto: 100%</b>"
+          }
+      ],
+      "caption": "<b>Alberto Del Rio: 82.9%</b><br>Kalisto: 17.1%"
+    }
+    ]}
+  ],
+  "challengers": [
+  {  
+   "name": "",
+   "caption": "<b>Kevin Owens: 33.4%</b><br>Dolph Ziggler: 32.2%<br>Dean Ambrose: 20.8%<br>Neville: 13.6%",
+    "challengers": [
+      {
+        "name": "",
+        "challengers": [
+          {"name": "Kevin Owens",
+           "challengers": [
+            {"name": "Titus O'Neil"},
+            {"name": "Kevin Owens"}
+           ],
+           "caption": "<b>Kevin Owens: 100%</b>"
+          },
+          {"name": "Neville",
+           "challengers": [
+            {"name": "Neville"},
+            {"name": "King Barrett"}
+           ],
+           "caption": "<b>Neville: 100%</b>"
+           }
+        ],
+        "caption": "<b>Kevin Owens: 64.1%</b><br>Neville: 35.9%"
+      },
+      {
+        "name": "",
+        "challengers": [
+          {"name": "Dolph Ziggler",
+           "challengers": [
+            {"name": "Dolph Ziggler"},
+            {"name": "The Miz"}
+           ],
+           "caption": "<b>Dolph Ziggler: 100%</b>"
+          },
+          {"name": "Dean Ambrose",
+           "challengers": [
+            {"name": "Dean Ambrose"},
+            {"name": "Tyler Breeze"}
+           ],
+           "caption": "<b>Dean Ambrose: 100%</b>"
+           }
+        ],
+        "caption": "<b>Dolph Ziggler: 57.4%</b><br>Dean Ambrose: 42.6%"
+      }
+  ]}]
+}
