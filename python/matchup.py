@@ -42,11 +42,13 @@ cur.execute(queryString)
 con.commit()
 currentELO = cur.fetchall();
 
-matches = [[["Tyler Breeze"],["Dolph Ziggler"]],
+matches = [[["Big E. Langston", "Xavier Woods", "Kofi Kingston"],["Kalisto", "Sin Cara"],["Jimmy Uso", "Jay Uso"]],
            [["Charlotte"], ["Paige"]],
-           [["Roman Reigns"], ["Alberto Del Rio"]],
+           [["Jack Swagger"], ["Alberto Del Rio"]],
            [["Dean Ambrose"], ["Kevin Owens"]],
-           [["The Undertaker", "Kane"],["Bray Wyatt", "Luke Harper"]]];
+           [["Bubba Ray Dudley", "D-Von Dudley", "Tommy Dreamer", "Rhyno"],["Bray Wyatt", "Luke Harper", "Braun Strowman", "Erick Rowan"]],
+           [["Ryback"],["Rusev"]],
+           [["Sheamus"], ["Roman Reigns"]]];
 
 f = open('preview.txt', 'w');
 
