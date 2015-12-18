@@ -42,7 +42,7 @@ cur.execute(queryString)
 con.commit()
 currentELO = cur.fetchall();
 
-matches = [[["Big E. Langston", "Xavier Woods", "Kofi Kingston"],["Kalisto", "Sin Cara"],["Jimmy Uso", "Jay Uso"]],
+matches = [[["Big E. Langston", "Xavier Woods", "Kofi Kingston"],["Kalisto", "Sin Cara"],["Jimmy Uso", "Jey Uso"]],
            [["Charlotte"], ["Paige"]],
            [["Jack Swagger"], ["Alberto Del Rio"]],
            [["Dean Ambrose"], ["Kevin Owens"]],
