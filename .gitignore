@@ -3,3 +3,4 @@ php/sqldata.php
 python/preview.txt
 python/ELO_database.csv
 python/__pycache__/importSQL.cpython-35.pyc
+python/winner_scores.csv

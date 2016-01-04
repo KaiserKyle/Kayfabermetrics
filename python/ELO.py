@@ -60,7 +60,8 @@ con.close();
 #quit();
 
 # Smackdown, Raw, PPV, WrestleMania
-KValues = [10, 20, 40, 80];
+KValues = [15, 40, 50, 160];
+print("K Values: " + str(KValues));
 currentShowName = "";
 currentShowTime = datetime.MINYEAR;
 include = True;

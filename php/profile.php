@@ -49,6 +49,10 @@ div.tooltip {
     color: white;
 }
 
+body {
+    background-color: #eaeaea;
+}
+
 </style>   
 <body>
 <?php include 'profilephp.php'?>
